@@ -1,0 +1,6 @@
+@ShortestRouteAPI_HostAddress = http://localhost:5004
+
+GET {{ShortestRouteAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
