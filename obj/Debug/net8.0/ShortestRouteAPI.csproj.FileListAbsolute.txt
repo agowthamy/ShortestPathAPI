@@ -31,3 +31,4 @@ C:\repository\udemyLearning\amplifyn\ShortestRouteAPI\obj\Debug\net8.0\refint\Sh
 C:\repository\udemyLearning\amplifyn\ShortestRouteAPI\obj\Debug\net8.0\ShortestRouteAPI.pdb
 C:\repository\udemyLearning\amplifyn\ShortestRouteAPI\obj\Debug\net8.0\ShortestRouteAPI.genruntimeconfig.cache
 C:\repository\udemyLearning\amplifyn\ShortestRouteAPI\obj\Debug\net8.0\ref\ShortestRouteAPI.dll
+C:\repository\udemyLearning\amplifyn\ShortestRouteAPI\obj\Debug\net8.0\ShortestRouteAPI.sourcelink.json
